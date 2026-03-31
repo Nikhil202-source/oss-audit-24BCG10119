@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 
 # Variables
-STUDENT_NAME="Your Name"
+STUDENT_NAME="Nikhil Prabhat"
 SOFTWARE_CHOICE="Git"
 
 # Get system info
